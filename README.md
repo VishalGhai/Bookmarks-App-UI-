@@ -1,11 +1,11 @@
 # Bookmarks-App-UI-
-##A UI problem statement solution solved by me
+## A UI problem statement solution solved by me
 
-##PROBLEM STATEMENT - 
-######Make an app which allow students to bookmark their important questions from subjects like Physics, Chemistry and more,
-######which they can follow up easily at the time of their exams.
+## PROBLEM STATEMENT - 
+###### Make an app which allow students to bookmark their important questions from subjects like Physics, Chemistry and more,
+###### which they can follow up easily at the time of their exams.
 
-##SOLUTION -
+## SOLUTION -
 
 This is the home page of the app which shows the subjects. Below this the recent marked questions are shown.
 You can add a New Book or New Bookmark by tapping the add button in the bottom right corner.
